@@ -45,3 +45,4 @@ To design and configure a custom Amazon Virtual Private Cloud (VPC) from scratch
 #### Step 4: Verify Deployment and Application Load
 1. Once the instances enter the **Running** state, verify their Public IPv4 addresses and Status Checks (`2/2 checks passed`)[cite: 1, 2].
 2. Access deployed web or load testing scripts via the public DNS/IP to confirm operational status (e.g., CPU load monitoring pages)[cite: 8].
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e0ec9f17-0990-42f7-922d-f292fe519b91" />
