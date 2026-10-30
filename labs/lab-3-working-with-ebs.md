@@ -32,3 +32,5 @@ To gain hands-on experience managing persistent block storage in AWS by creating
 2. Format the new block device with an `ext3` filesystem:
    ```bash
    sudo mkfs -t ext3 /dev/sdb
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/37f90f56-3240-4375-b163-c06319abe0f2" />
