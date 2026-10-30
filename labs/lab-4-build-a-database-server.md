@@ -67,3 +67,6 @@ To build a multi-tier infrastructure by configuring a secure VPC DB Subnet Group
    * **Username**: `main`
    * **Password**: Enter your database master password.
 4. Click **Submit** to establish connectivity and verify database access from the web application tier.
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3dc6fad2-654f-4cac-ac7a-a5e097541211" />
